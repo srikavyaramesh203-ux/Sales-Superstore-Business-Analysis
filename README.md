@@ -30,14 +30,23 @@ This project analyzes retail sales and profit performance using a real-world Sup
 ### Q1: Which region generates the highest profit?
 - West region generated the highest profit of 108,418.45.
 
+![Region Profit](Region Profit.png)
+
+---
+
 ### Q2: Which state generates the highest sales?
 - California generated the highest sales of 457,687.63.
 
-### Q3: Which customers contribute the highest profit?
-- Top 10 customers contributed significantly to overall profitability.
+![State Sales](State Sales.png)
 
-### Q4: Which product category performs best?
-- Product category analysis was performed using Pivot Tables and sales metrics.
+---
+
+### Q3: Which customers contribute the highest profit?
+- The dataset contained approximately 793 unique customers.
+- To improve visualization clarity, Top 10 customers were filtered based on profit contribution.
+- Top-performing customers contributed significantly to overall profitability.
+
+![Customer Profit](Customer Profit.png)
 
 ---
 
