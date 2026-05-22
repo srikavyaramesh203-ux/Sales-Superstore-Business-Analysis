@@ -59,7 +59,7 @@ This project analyzes retail sales and profit performance using a real-world Sup
 ---
 
 ## Dataset Source
-Kaggle Superstore Dataset
+[Superstore Dataset Final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 
 ---
 
